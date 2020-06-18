@@ -1,18 +1,3 @@
-Build System for C
-
-{
-"shell_cmd" : "gcc $file_name -o ${file_base_name}",
-"working_dir" : "$file_path",
- 
-"variants":
-[
-	{
-		"name": "Run",
-		"shell_cmd": "gcc $file_name -o ${file_base_name} && ${file_path}/${file_base_name}"
-	}
-]
-}
-
 Build System for C++
 
 {
