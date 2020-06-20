@@ -20,7 +20,7 @@
 ##### - [Gaming Review](https://youtu.be/OI0VqLtoXEI)
 ##### - [Benefits of PPI](https://pocketnow.com/how-important-are-ppi)
 
-## [POP OS](https://pop.system76.com)
+## [POP!\_OS](https://pop.system76.com)
 
 <p align="center">
   <img src="img/POPOS.png" alt="drawing" width="300"/>
