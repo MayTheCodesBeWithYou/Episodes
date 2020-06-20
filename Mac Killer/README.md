@@ -21,7 +21,7 @@
 ## [POP OS](https://pop.system76.com)
 
 <p align="center">
-  <img src="img/POPOS.png" alt="drawing" width="400"/>
+  <img src="img/POPOS.png" alt="drawing" width="300"/>
 </p>
 
 Pop!\_OS is an operating system for STEM and creative professionals who use their computer as a tool to discover and create. Unleash your potential on secure, reliable open source software. Based on your exceptional curiosity, we sense you have a lot of it.
