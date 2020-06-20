@@ -1,4 +1,4 @@
-#Macbook Air Killer
+# Macbook Air Killer
 
 [video link](https://youtu.be/xTv32WePsSI)
 
@@ -18,7 +18,7 @@
 - [Gaming Review](https://youtu.be/OI0VqLtoXEI)
 - [Benefits of PPI](https://pocketnow.com/how-important-are-ppi)
 
-##[POP OS](https://pop.system76.com)
+## [POP OS](https://pop.system76.com)
 
 ![](img/POPOS.png)
 
