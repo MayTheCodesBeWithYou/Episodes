@@ -3,7 +3,7 @@
 [video link](https://youtu.be/xTv32WePsSI)
 
 |    | [ASUS VivoBook 15](https://www.amazon.in/VivoBook-M509DA-EJ561T-15-6-inch-Integrated-Transparent/dp/B07WSGCC44/ref=sr_1_8?dchild=1&keywords=asus+vivobook+15+ryzen&qid=1592575508&sr=8-8) | [Apple MacBook Air](https://www.amazon.in/Apple-MacBook-Air-13-3-inch-MQD32HN/dp/B073Q5R6VR/ref=sr_1_3?dchild=1&keywords=macbook+air&qid=1592652560&sr=8-3) |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:|:-------------:|
 |Image | ![](img/Asus.jpg)  | ![](img/Mac.jpg) |
 |Price | ₹33,990 | ₹65,990 |
 |Display | 15.6” 1920*1080 (Full HD) 60 Hz 141.2 ppi | 13.3” 1440\*900 Retina Display 127.7 ppi |
